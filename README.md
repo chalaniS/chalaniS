@@ -1,12 +1,7 @@
 ![flutter-desktop-app-1](https://user-images.githubusercontent.com/99180967/197948597-1aafc566-8030-4c64-89df-9aaa3e474542.jpg)
 
-
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
 <h3 align="center">A passionate Flutter App developer from Sri Lanka</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chalanis" alt="chalanis" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chalanisaumya" target="blank"><img src="https://img.shields.io/twitter/follow/chalanisaumya?logo=twitter&style=for-the-badge" alt="chalanisaumya" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
