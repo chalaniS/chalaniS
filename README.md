@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
 <h3 align="center">A passionate Flutter App developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **React Native**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chalanis" alt="chalanis" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/chalanisaumya" target="blank"><img src="https://img.shields.io/twitter/follow/chalanisaumya?logo=twitter&style=for-the-badge" alt="chalanisaumya" /></a> </p>
+
+- 🌱 I’m currently learning **Flutter, React Native**
 
 - 💬 Ask me about **Android, IOS app**
 
