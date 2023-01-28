@@ -1,9 +1,9 @@
 ![flutter-desktop-app-1](https://user-images.githubusercontent.com/99180967/197948597-1aafc566-8030-4c64-89df-9aaa3e474542.jpg)
 
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
-<h3 align="center">A passionate Flutter App developer from Sri Lanka</h3>
+<h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Flutter, React Native, Android, IOS**
 
 - 💬 Ask me about **Android, IOS app**
 
