@@ -1,11 +1,11 @@
 ![flutter-desktop-app-1](https://img.pikbest.com/backgrounds/20190407/blue-technology-digital-line-beam-background-banner_1828801.jpg)
 
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
-<h3 align="center">A passionate Mobile App developer from Sri Lanka</h3>
+<h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Flutter, React Native, Android, IOS**
 
-- 💬 Ask me about **Android, IOS app**
+- 💬 Ask me about **Web, Android, IOS app**
 
 - 📫 How to reach me **chalasaumya@gmail.com**
 
