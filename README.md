@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chalanisaumya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chalanisaumya" height="30" width="40" /></a>
+<a href="https://chalanis.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="chalanisaumya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chalani-s-rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalani-s-rajapaksha" height="30" width="40" /></a>
 <a href="https://fb.com/chalani.saumya.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chalani.saumya.750" height="30" width="40" /></a>
 <a href="https://instagram.com/c._h._e._m._y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c._h._e._m._y" height="30" width="40" /></a>
