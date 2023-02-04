@@ -26,14 +26,13 @@
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalanis&show_icons=true&locale=en" alt="chalanis" /></p>
 
-
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" /></p>
-
-    <p align="left">
+ <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
           src="https://github-profile-trophy.vercel.app/?username=chalanis"
           alt="chalanis"
       /></a>
     </p>
+   
