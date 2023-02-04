@@ -29,3 +29,11 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" /></p>
+
+    <p align="left">
+      <a href="https://github.com/ryo-ma/github-profile-trophy"
+        ><img
+          src="https://github-profile-trophy.vercel.app/?username=chalanis"
+          alt="chalanis"
+      /></a>
+    </p>
