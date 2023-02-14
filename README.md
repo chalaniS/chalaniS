@@ -1,4 +1,6 @@
-![flutter-desktop-app-1](https://img.pikbest.com/backgrounds/20190407/blue-technology-digital-line-beam-background-banner_1828801.jpg)
+![flutter-desktop-app-1]
+![img (2)](https://user-images.githubusercontent.com/99180967/218650639-2b0d0e25-c514-41fd-bd52-e5a3ab5f757f.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
