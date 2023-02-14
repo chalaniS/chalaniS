@@ -1,4 +1,5 @@
-![img (2)](https://user-images.githubusercontent.com/99180967/218650639-2b0d0e25-c514-41fd-bd52-e5a3ab5f757f.jpg)
+![img (2)](https://user-images.githubusercontent.com/99180967/218651044-cc1d0400-76e7-4bca-8ea1-0336ef658de0.jpg)
+
 
 
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
