@@ -1,4 +1,4 @@
-![LinkedIn Banner](https://github.com/chalaniS/chalaniS/assets/99180967/94f6e584-8f7f-4a46-a482-d405d5d7fe4c)
+![LinkedIn Banner](https://github.com/chalaniS/chalaniS/assets/99180967/bbe99589-8458-4036-b06f-dc00d4a492a5)
 
 
 <h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
