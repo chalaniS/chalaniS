@@ -15,8 +15,8 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+<!-- GitHub Profile Visit Counter -->
+<img src="https://komarev.com/ghpvc/?username=chalaniS&color=blue" alt="profile views" />  
 </div>
 
 <h3 align="left">Connect with me:</h3>
