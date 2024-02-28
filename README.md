@@ -12,6 +12,13 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://chalanis.github.io/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="chalanisaumya" height="30" width="40" /></a>
