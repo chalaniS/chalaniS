@@ -72,11 +72,11 @@
 
 
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" />
  <p align="left" >
       <img
           src="https://github-profile-trophy.vercel.app/?username=chalanis"
           alt="chalanis"
       />
-    </p>
+    </p></p>
    
