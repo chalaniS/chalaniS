@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=chalaniS&color=blue" alt="profile views" />  
 </div>
 
-</br>
+
 
 ### 💼 Professional Highlights
 
