@@ -12,7 +12,7 @@
 
 - 🎓 Undergraduate at SLIIT, specializing in Software Engineering
 
-- 📫 How to reach me **chalasaumya@gmail.com**
+<!--- 📫 How to reach me **chalasaumya@gmail.com**-->
 
 - ⚡ Fun fact: I think I’m funny. My code sometimes agrees. 😄
 
@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=chalaniS&color=blue" alt="profile views" />  
 </div>
 
----
+</br>
 
 ### 💼 Professional Highlights
 
