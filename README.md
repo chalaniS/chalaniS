@@ -12,9 +12,12 @@
 
 - 🎓 Undergraduate at SLIIT, specializing in Software Engineering
 
-<!--- 📫 How to reach me **chalasaumya@gmail.com**-->
+- 📫 How to reach me **chalasaumya@gmail.com**
 
 - ⚡ Fun fact: I think I’m funny. My code sometimes agrees. 😄
+
+
+</br>
 
 <!--profile visit count-->
 <div align="center">
@@ -72,7 +75,7 @@
 
 
 <br/>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" /></p>-->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" />
  <p align="left" >
       <img
           src="https://github-profile-trophy.vercel.app/?username=chalanis"
