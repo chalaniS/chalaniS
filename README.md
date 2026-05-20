@@ -49,7 +49,7 @@ fun_fact: "My code is funny. Sometimes it agrees with me. 😄"
 <div align="center">
 
 | Subjects | Level | 
-|---|---|---|
+|---|---|
 | 💻 **Programming Fundamentals** | Undergraduate |
 | ➕ **Mathematics for Computing** | Undergraduate |
 | 🔢 **Mobile application development** | Undergraduate  |
