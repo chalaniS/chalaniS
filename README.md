@@ -1,85 +1,257 @@
-![LinkedIn Banner](https://github.com/chalaniS/chalaniS/assets/99180967/bbe99589-8458-4036-b06f-dc00d4a492a5)
-
-
-<h1 align="center">Hi 👋, I'm Chalani Rajapaksha</h1>
-<!-- <h3 align="center">A passionate Software developer from Sri Lanka</h3> -->
-
-- 🌱 I’m currently learning **Flutter, React Native, Android, IOS, and SRE best practices**
-
-- 💬 Ask me about **Web, Android, IOS app, and love tackling challenges in cloud & DevOps**
-
-- 👩‍💻 Associate Site Reliability Engineer at IFS R&D International (Pvt) Ltd
-
-- 🎓 Undergraduate at SLIIT, specializing in Software Engineering
-
-- 📫 How to reach me **chalasaumya@gmail.com**
-
-- ⚡ Fun fact: I think I’m funny. My code sometimes agrees. 😄
-
-
-</br>
-
-<!--profile visit count-->
 <div align="center">
-  
-<!-- GitHub Profile Visit Counter -->
-<img src="https://komarev.com/ghpvc/?username=chalaniS&color=blue" alt="profile views" />  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0891b2&height=200&section=header&text=Chalani%20Rajapaksha&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Academic%20Instructor%20%7C%20Software%20Engineer%20%7C%20SRE&descSize=18&descAlignY=58&descColor=e0f2fe" />
+
 </div>
 
+<br/>
 
+<div align="center">
 
-### 💼 Professional Highlights
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chalani-s-rajapaksha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://chalanis.github.io)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@chalanirajapaksha)
+[![Email](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chalasaumya@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=chalanis&style=for-the-badge&color=4f46e5)](https://github.com/chalanis)
 
-* 👩‍💼 **Associate Site Reliability Engineer**
-  *Unified Support - Monitoring & Logging Team, IFS*
-
-  * Monitored and resolved incidents in prod/non-prod environments
-  * Worked with PL/SQL, alerting systems, and customer-facing cases
-  * Tools: Prometheus, Grafana, Nagios, CI/CD pipelines
-
-* 👩‍💻 **Flutter Intern Developer**
-  *Elegant Media, Sri Lanka*
-
-  * Built and maintained Android apps using Flutter
-  * Participated in client meetings, requirement analysis & documentation
-
-* 📈 **Technical Skills**
-
-  * **DevOps/Cloud:** Azure (AZ-900, AZ-104), Docker, Kubernetes, Linux, CI/CD
-  * **Languages:** Python, Java, Dart, JavaScript
-  * **Frameworks/Tools:** Flutter, React, Node.js, Prometheus, Git, Firebase
-  * **Monitoring & Automation:** Alerting, Logging, Auto-healing
+</div>
 
 ---
 
+## 👩‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://chalanis.github.io/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/256/internet.png" alt="chalanisaumya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chalani-s-rajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalani-s-rajapaksha" height="30" width="40" /></a>
-<a href="https://fb.com/chalani.saumya.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chalani.saumya.750" height="30" width="40" /></a>
-<a href="https://instagram.com/c._h._e._m._y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c._h._e._m._y" height="30" width="40" /></a>
-</p>
+```yaml
+name: Chalani Rajapaksha
+location: Colombo, Sri Lanka 🇱🇰
+role:
+  - Academic Instructor @ University of Moratuwa
+  - MSc Computer Science Student @ University of Moratuwa
+education: BSc (Hons) IT – Software Engineering, SLIIT (2021–2025)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+currently:
+  - 📚 Teaching CS1033 Programming Fundamentals
+  - 🎓 Pursuing MSc in Computer Science
+  - 🌱 Learning Flutter, React Native & SRE best practices
+
+interests:
+  - Cloud & DevOps Engineering
+  - Site Reliability Engineering
+  - Mobile App Development
+  - Teaching & Mentoring
+
+fun_fact: "My code is funny. Sometimes it agrees with me. 😄"
+```
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chalanis&show_icons=true&locale=en&layout=compact" alt="chalanis" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chalanis&show_icons=true&locale=en" alt="chalanis" /></p>
+## 🏫 Teaching & Academic Work
 
+<div align="center">
 
-----
+| Subjects | Level | Institution |
+|---|---|---|
+| 💻 **Programming Fundamentals** | Undergraduate |
+| ➕ **Mathematics for Computing** | Undergraduate |
+| 🔢 **Mobile application development** | Undergraduate  |
+| 🐍 **Python Programming** | Beginner–Intermediate |
+| ☕ **Java Programming** | Beginner–Intermediate |
+| 🌐 **English for Technology** | Academic  |
 
+</div>
+
+> *Experienced in guiding learners through clear explanations, hands-on labs, and structured learning activities. Committed to fostering student engagement and continuous learning.*
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🎓 Academic Instructor — University of Moratuwa</b> <i>(Nov 2025 – Present)</i></summary>
 
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chalanis&" alt="chalanis" />
- <p align="left" >
-      <img
-          src="https://github-profile-trophy.vercel.app/?username=chalanis"
-          alt="chalanis"
-      />
-    </p>
-   
+
+- 📖 Assisted in delivering **CS1033 Programming Fundamentals**, supporting labs and student learning
+- 🛠️ Contributed to academic preparation, materials development, and departmental duties
+- 👩‍🏫 Faculty of Computer Science & Engineering
+
+</details>
+
+<details open>
+<summary><b>🔧 Associate Site Reliability Engineer — IFS R&D International</b> <i>(May 2024 – Aug 2025 · 1y 3m)</i></summary>
+
+<br/>
+
+- 📊 Monitored prod and non-prod environments on **Azure** using Grafana, Nagios & Prometheus
+- 🚨 Handled P1, P2, P3 customer-raised cases with resolution via PL/SQL Developer
+- 🔄 Worked on CI/CD pipelines, alerting systems, and auto-healing mechanisms
+- 👥 Performed manual monitoring for multiple enterprise customers
+
+</details>
+
+<details>
+<summary><b>🏗️ Undergraduate Trainee — IFS R&D (Unified Support - MWO)</b> <i>(Nov 2023 – Apr 2024 · 6m)</i></summary>
+
+<br/>
+
+- 🗄️ Handled cases/tasks raised by customers
+- 💾 Worked in PL/SQL Developer and co-environments to resolve P1, P2, P3 cases
+
+</details>
+
+<details>
+<summary><b>📱 Intern Flutter Developer — Elegant Media Sri Lanka</b> <i>(Jan 2023 – May 2023)</i></summary>
+
+<br/>
+
+- 📲 Developed Android mobile applications using **Flutter**
+- 🤝 Attended customer meetings to gather project requirements and insights
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-00c853?style=flat-square&logo=githubactions&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-e6522c?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-f46800?style=flat-square&logo=grafana&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-006b6c?style=flat-square&logo=nagios&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175c2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+
+### 📱 Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-f80000?style=flat-square&logo=oracle&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer |
+|---|---|---|
+| 🔵 | **Azure Fundamentals (AZ-900)** | Microsoft |
+| 🔵 | **Azure Administrator Associate (AZ-104)** | Microsoft |
+| 🔴 | **System Administrator (RHCSA)** | Red Hat |
+| 🟠 | **Cloud Infrastructure Foundations Associate** | Oracle |
+| 🤖 | **AI/ML Engineer (Stage 1 & 2)** | SLIIT |
+| 🐍 | **Python programming (1 & 2)** | University of Moratuwa |
+| 📱 | **Flutter Development Course** | Franklin Training, Australia |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Applications
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏋️ Gymly — Gym Management System</h3>
+      <p>Full-featured gym management platform built with the <strong>MERN stack</strong>. Includes schedule management, customer feedback, employee management, membership tracking, and a dedicated supplement store.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🦁 Wild Safari Management Web</h3>
+      <p>Safari management platform with eye-catching UI, built using <strong>HTML, CSS, JavaScript</strong> and <strong>PHP</strong> backend. Rich with interactive functionalities and user-friendly design.</p>
+      <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+### 📱 Mobile Applications
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💊 Medicube</h3>
+      <p>Mobile solution connecting medicine donors and patients, built with <strong>Kotlin</strong>. Donors list medicines which patients can browse via a clean recycler view interface.</p>
+      <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-34a853?style=flat-square&logo=android&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h3>🚂 Train Tracking & Booking App</h3>
+      <p>Cross-platform app in <strong>Flutter</strong> featuring live location sharing, e-ticket generation, and smart seat booking with a polished user experience.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chalanis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalanis&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chalanis&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chalanis&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎓 Extracurriculars
+
+- 🦁 **Director** — Leo Club of Colombo Monarch, Leo District 306 A2
+- 📡 **Program Team Member** — IEEE Student Branch, SLIIT (2023/24)
+- 🖥️ **Sub-Committee Member** — FCSC, SLIIT (2023/24)
+- 🔬 **Committee Member** — Science Society, Ananda Balika Vidyalaya (2018–2019)
+
+---
+
+## 🌐 Languages
+
+🇱🇰 **Sinhala** — Native &nbsp;|&nbsp; 🇬🇧 **English** — Excellent
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:4f46e5&height=120&section=footer"/>
+
+</div>
